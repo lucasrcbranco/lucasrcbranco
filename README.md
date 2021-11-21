@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Persistence is "the continuance of an effect after its cause is removed".
+### Persistence is the continuance of an effect after its cause is removed.
