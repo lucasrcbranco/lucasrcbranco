@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://www.giphy.com/embed/6ib6KPmkeAjDTxMxij" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM3czRqbmltNHEzNG5jMmFzeXZmMjlobjE0NDcwYWhzcWp0M3diZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
 </div>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lucas-r-c-branco/">
