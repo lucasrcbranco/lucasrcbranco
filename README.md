@@ -12,4 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=lucasrcbranco&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Persistence is the continuance of an effect after its cause is removed.
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
