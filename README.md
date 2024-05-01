@@ -8,6 +8,6 @@
   </a>
 </div>
 
-<align="center" img src="https://komarev.com/ghpvc/?username=lucasrcbranco&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=lucasrcbranco&style=flat-square&color=blue" alt="" align="center"/>
 
 ### Persistence is the continuance of an effect after its cause is removed.
